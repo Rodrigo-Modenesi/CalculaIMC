@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">appImc</string>
+    <string name="seu_imc">Seu IMC é:</string>
+    <string name="nome">Nome</string>
+    <string name="por_favor_preencha_abaixo">Por favor, preencha abaixo:</string>
+    <string name="adulto">Adulto</string>
+    <string name="idoso">Idoso</string>
+    <string name="massa_kg">Massa (kg)</string>
+    <string name="altura_m">Altura (m)</string>
+    <string name="calcular">Calcular</string>
+    <string name="app_de_referencia">Este é um aplicativo de referência. Em caso de dúvida, consulte um médico.</string>
+</resources>
